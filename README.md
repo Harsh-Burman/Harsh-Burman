@@ -9,11 +9,11 @@
 
 A passionate Full Stack Developer focused on building efficient and user-centric web applications.
 
-- 💻 **Core Stack:** Python, Java, MERN
+- 💻 **Core Stack:** Java, MERN
 - 🎨 **Design:** UI/UX Prototyping with Figma, Canva
 - 🌱 **Exploring:** MERN Stack
 - 🤝 **Open to:** Collaborating on innovative, end-to-end projects.
-- 📫 **Contact me:** 
+- 📫 **Contact me:** burmanharsh2003@gmail.com 
 - ⚡ **Motto:** Never Give Up
 
 </p>
